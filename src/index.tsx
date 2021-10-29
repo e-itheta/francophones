@@ -10,6 +10,7 @@ ReactDOM.render(
         <a href="https://discord.gg/3K8dEk2Hs8">
             unless it's through the club discord
         </a>
+        Hello
     </App>,
     document.getElementById("root")
 )
